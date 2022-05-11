@@ -5,3 +5,4 @@ secretMessage[7] = 'right';
 secretMessage.shift();
 secretMessage.unshift('Programming');
 secretMessage.splice(6,5,'know');
+console.log(secretMessage.join(' '));
