@@ -3,4 +3,5 @@ secretMessage.pop();
 secretMessage.push('coding','is','fun');
 secretMessage[7] = 'right';
 secretMessage.shift();
+secretMessage.unshift('Programming');
 console.log(secretMessage);
